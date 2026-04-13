@@ -37,6 +37,7 @@ results/
 # Dataset files (usually large)
 # =========================
 data/
+archive/
 datasets/
 *.csv
 *.tsv
@@ -67,3 +68,6 @@ Thumbs.db
 # =========================
 .env
 .env.*
+
+
+
